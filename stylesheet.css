@@ -1,0 +1,76 @@
+.body{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+
+.image-hero-area{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    margin: 0;
+    background: url(img/pexels-the-lazy-artist-gallery-1559225.jpg) center center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+
+.container h3{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.container h4{
+    /* text-align: center; */
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.navbar-brand{
+    font-size: 26px;
+}
+
+.navbar{
+    font-size: 24px;
+}
+
+.bg-light{
+    margin-bottom: 20px;
+    /* background-image: linear-gradient(to right, yellow, orange, maroon) !important; */
+    background-color: transparent !important;
+}
+
+
+.liste{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.center{
+    text-align: center;
+}
+
+.container-fluid a{
+    font-size: 26px;
+    /* color: white; */
+}
+
+/* .gif{
+    justify-content: space-around;
+} */
+
+#giphy{
+    display: none;
+}
+
+.container-fluid a:hover{
+    color: #6c757d;
+}
